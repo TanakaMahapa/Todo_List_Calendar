@@ -1,0 +1,20 @@
+form {
+    width: 60%;
+    padding: 1em;
+    margin: 1em auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+form input, form  textarea{
+
+    width: 98%;
+        margin: 1em auto;
+
+}
+form textarea{
+    height: 120px;
+}
